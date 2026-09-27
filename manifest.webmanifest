@@ -1,0 +1,1 @@
+{"name":"당구 스코어보드","short_name":"당구기록","start_url":"./","display":"standalone","background_color":"#0f172a","lang":"en","scope":"./","description":"3쿠션 / 4구 경기 기록 및 에버리지 통계","theme_color":"#0f172a","orientation":"any","icons":[{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
